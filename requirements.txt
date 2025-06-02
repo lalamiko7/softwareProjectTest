@@ -1,3 +1,5 @@
+--extra-index-url https://test.pypi.org/simple/
+
 # first list the packages you wish to download from PyPI
 teachbooks # depends on jupyter-book
 jupyterbook-patches
@@ -8,5 +10,7 @@ teachbooks-sphinx-tippy
 sphinx-iframes
 sphinx-named-colors
 
+teachbooks_software_project_extension_name
+
 # Now list the packages you want to download directly from GitHub
-git+https://github.com/TeachBooks/Sphinx-Thebe
+# git+https://github.com/TeachBooks/Sphinx-Thebe
