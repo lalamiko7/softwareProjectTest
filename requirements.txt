@@ -10,7 +10,7 @@ teachbooks-sphinx-tippy
 sphinx-iframes
 sphinx-named-colors
 
-teachbooks_software_project_extension_name==0.0.5
+teachbooks_software_project_extension_name==0.0.6
 
 # Now list the packages you want to download directly from GitHub
 # git+https://github.com/TeachBooks/Sphinx-Thebe
