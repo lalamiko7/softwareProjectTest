@@ -11,7 +11,6 @@ only_build_toc_files: true                           # Replace this with false i
 html:
   favicon : "figures/TB_favicon.ico"                 # Replace this with your own favicon
   baseurl : "https://lalamiko7.github.io/softwareProjectTest/"
-  # baseurl :  "https://<user/org>.io/<repo>"          # Replace this with your own URL
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
   config:
