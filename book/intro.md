@@ -1,10 +1,1 @@
-+++
-# Welcome to the Template Book
-
-*This is the first page the student will see when opening the url.*
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
-
-
-
-I edited this page yippie
+Error: not yet supported Welcome to the Template BookThis is the first page the student will see when opening the url.This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!I edited this page yippieBOldItalicStripetrhoughatothepower poopesubscriptHeading 1Heading 2Heading 3Normallist item 1item 2ordered list23quottelinkE=mc^2
