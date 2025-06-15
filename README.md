@@ -44,40 +44,6 @@ html_theme_options:
 
 7. For creating the PAT, the user has to click the "Don't have an access token?" hypertext, which will redirect them to the GitHub page for creating a token. After that the user will have to write down the name of the token in the input box for Token name, change repository access to all repositories and go under permissions/repository permissions and change contents to read and write. When clicking Generate token, the user will be redirected to a page which displays the token. They have to copy and store that if they don't want to redo the token creation process again. After that is done, the user can input the token into the input box under "Enter GitHub Access Token", which would allow them access to the rest of the GitHub functionality.
 
-![exercises](https://github.com/TeachBooks/template_figures/blob/main/exercises.png?raw=true)
-
-Additional tip: 
-Set the repository website as your GitHub Pages website under `Code`- `About` - `Settings icon` - `Website` - `Use your GitHub Pages Website`
-
-![GitHub pages as website](https://github.com/TeachBooks/template_figures/blob/main/use_github_pages_website.png?raw=true)
-
-## Features
-- A github repository structure for making a [Jupyter Book](https://github.com/executablebooks/jupyter-book) (`/book`)
-- An empty TeachBook containing an intro page on root, an example markdown page, an example jupyter notebook page, an example references page. and an example credits page. (`/book/_toc.yml`, `/book/_config.yml`, `/book/credits.md`, `/book/intro.md`, `/book/references.md`, `/book/some_content/overview.md`, `/book/some_content/text_and_code.ipynb`)
-- A file ready for adding references (`references.bib`, `/book/references.md`)
-- An example favicon (web browser icon) (`/book/figures/favicon.ico`, `book/_config.yml`.)
-- An example logo (`/book/figures/TUDelft_logo_rgb.png`, `/book/config.yml`)
-- The configuration files set ready to make your Jupyter Notebooks pages work with [live code using our sphinx-thebe extension](https://teachbooks.io/manual/features/live_code.html) and our recommended settings (`/book/config.yml`)
-- An example of setting up preprocessing your table of contents to hide certain draft chapters for eg. students (`_toc.yml`)
-- A file containing all the recommended software packages (`requirements.txt`)
-- A file containing the recommended license CC BY 4.0 (`LICENSE.md`)
-- Our [GitHub workflow for publishing your TeachBook to GitHub Pages](https://github.com/TeachBooks/deploy-book-workflow) (`.github/workflow/call-deploy-book.yml`)
-- A gitignore file containing standard python filetype to ignore (`.gitignore`)
-- A readme containing information how to use the template, which can adjusted after using the template (`README.md`)
-
-## Contribute
-This tool's repository is stored on [GitHub](https://github.com/TeachBooks/template). The `README.md` of the branch `manual_description` is also part of the [TeachBooks manual](https://teachbooks.io/manual/external/template/README.html) as a submodule. If you'd like to contribute, you can create a fork and open a pull request on the [GitHub repository](https://github.com/TeachBooks/template). To update the `README.md` shown in the TeachBooks manual, create a fork and open a merge request for the [GitHub repository of the manual](https://github.com/TeachBooks/manual). If you intent to clone the manual including its submodules, clone using: `git clone --recurse-submodulesgit@github.com:TeachBooks/manual.git`.
-
-## Template README
-> Remove all of the above after you've taken this template and followed the instructions. The following lines are a template for your own README
-
-# `<Book title>`
-
-`<description of book's content en target audience>`
-
-## Contributors
-- `<list authors>`
-
 ## Reuse content
 Feel free to reuse this content or contribute to it. Please give appropriate credit, provide a link to the license, and indicate if changes were made ([CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/))
 
