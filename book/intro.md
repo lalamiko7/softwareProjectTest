@@ -2,16 +2,6 @@
 # Heading 1
 
 
-
-```{image} https://cdn-icons-png.flaticon.com/512/4032/4032712.png
-:class: 
-:align: left
-:title: 
-:alt: 
-```
-
-
-
 `Inline code`
 
 +++
