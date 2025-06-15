@@ -1,6 +1,10 @@
 +++
 # Heading 1
 
+## Heading 2
+
+This should work? Maybe Not sure
+
 paragraph
 
 ## Heading 2
