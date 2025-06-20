@@ -12,4 +12,4 @@ sphinx-named-colors
 # git+https://github.com/TeachBooks/Sphinx-Thebe
 
 --extra-index-url https://test.pypi.org/simple/
-teachbooks_software_project_extension_name==0.1.3
+teachbooks_software_project_extension_name==0.1.4
